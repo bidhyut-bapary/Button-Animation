@@ -11,9 +11,9 @@
 
 ## 🖼️ স্ক্রিনশট  
 
-![Button Animation Screenshot](Screenshot 2025-09-14 115149.png)) 
 
-*(প্রজেক্ট ফোল্ডারে একটি `screenshot.png` ছবি রাখুন — এটি README-তে প্রদর্শিত হবে)*  
+![Button Animation Screenshot 1](Screenshot%202025-09-14%20115149.png)  
+![Button Animation Screenshot 2](Screenshot%202025-09-14%20115132.png)  
 
 ---
 

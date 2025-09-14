@@ -11,7 +11,7 @@
 
 ## 🖼️ স্ক্রিনশট  
 
-![Button Animation Screenshot](screenshot.png)  
+![Button Animation Screenshot]([screenshot.png](https://github.com/bidhyut-bapary/Button-Animation/blob/main/Screenshot%202025-09-14%20115149.png))  
 *(প্রজেক্ট ফোল্ডারে একটি `screenshot.png` ছবি রাখুন — এটি README-তে প্রদর্শিত হবে)*  
 
 ---
